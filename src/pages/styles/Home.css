@@ -2,3 +2,9 @@
   margin: 0;
   padding: 0;
 }
+
+.dark-mode {
+  background-color: #2B2B2B; /* 다크 모드 배경색 */ 
+  color: black;
+  border-left: 1px solid #f8f9fa;
+}
